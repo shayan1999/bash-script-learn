@@ -1,0 +1,13 @@
+to make bash scripts runable with ./name.sh 
+run chmod +x name.sh
+
+otherwise you can run it with bash name.sh
+
+some of the bashes need some dependencies installed in your terminal 
+I think it's only the only dependecy is jq in manageResponse.sh but beaware that
+it can cause the errors you see when you run these bashes
+
+last thing I have to mention is that I wrote these bashes with mac os system and 
+sometimes some of the commands are different in different os and it can cause problems
+so dont become upset if you faced any problem and feel free to send texts to me 
+anytime you need email: ali.rostami.1999@gmail.com

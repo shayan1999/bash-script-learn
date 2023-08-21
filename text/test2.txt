@@ -1,0 +1,2 @@
+and the bash script will count how many tests are in this test file
+there are 4 tests in this test file.
